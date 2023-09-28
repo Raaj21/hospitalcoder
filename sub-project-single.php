@@ -13,7 +13,7 @@
 
 			if($main_project_name != '')
 			{
-				$arr_client_ids = getAllClientIds(2,$spro_id);
+				$arr_client_ids = getAllClientIds(2,$spro_id,);
 
 
 ?>
